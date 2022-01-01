@@ -1,2 +1,1 @@
-# Trial
-This is a trail repo
+TinDog Starting Files
